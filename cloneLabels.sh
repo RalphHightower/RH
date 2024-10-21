@@ -1,3 +1,3 @@
-!# /bin/sh
+!#/bin/sh
 
-gh label clone RalphHightower/minimaUSCGamecockSandstorm -repo RalphHightower/blog --force
+gh label clone RalphHightower/minimaUSCGamecockSandstorm --repo RalphHightower/RH
