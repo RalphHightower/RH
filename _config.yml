@@ -1,22 +1,23 @@
-title: Ralph Hightower/Blog
+title: Ralph Hightower
 author:
   name: Ralph Hightower
-  # email: ralph.hightower@gmail.com
-  email: r a l p h dot h i g h t o w e r at gee mail dot com
-  # street_address:
+  #email: ralph.hightower@gmail.com
+  email: r a l p h dot h i g h t o w e r at gee mail dot dom
+  #street_address:
   city: Chapin
   state: South Carolina
   zip_code: 29036
   country: United States of America
-  # phone:
-
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
+  #phone:
 description: > # This means to ignore newlines until "show_excerpts:"
-  Cancel the rerun of "The Apprentice: White House".
-repository: 'RalphHightower/blog'
-url: 'https://ralphhightower.github.io/blog/'
-timezone: 'America/New_York'
+  I freeze time; I photograph. RETIRED Software Engineer (C#, .Net),
+  50++ years experience; still active for personal projects. Witnessed
+  two final space flights: Apollo/Soyuz, Space Shuttle STS-135 Atlantis
+  (launch and landing) w/ Final Four.
+show_excerpts: true # set to true to show excerpts on the homepage
+
+repository: "RalphHightower/RH"
+url: "https://ralphhightower.github.io/RH"
 
 # Build settings
 
