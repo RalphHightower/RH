@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Astronomy/Total Solar Eclipse 
-permalink: /Astronomy/
+#permalink: /Astronomy/
 ---
 
 ## April 8, 2024

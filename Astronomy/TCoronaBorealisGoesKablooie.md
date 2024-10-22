@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Astronomy/T Corona Borealis Goes Kablooie
-permalink: /Astronomy/
+#permalink: /Astronomy/
 ---
 
 <details markdown="1"><summary >Auroras / T Corona Borealis "Hot Links"</summary >
