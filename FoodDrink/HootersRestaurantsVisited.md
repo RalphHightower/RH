@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FoodDrink/Hooter Restaurants Visited
-permalink: /FoodDrink/
+#permalink: /FoodDrink/
 ---
 
 While working at [NCR](https://www.ncr.com) E&M-Columbia[^11], it was a Friday tradition that Customer Support would 
