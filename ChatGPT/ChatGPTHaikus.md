@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ChatGPT/[ChatGPT](https://chat.openai.com/) Haikus
+title: ChatGPT/ChatGPT Haikus
 permalink: /ChatGPT/
 ---
 
