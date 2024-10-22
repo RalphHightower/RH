@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FoodDrink/Food/Drink Recipes 
-permalink: /FoodDrink/
+#permalink: /FoodDrink/
 ---
 
 ## Food Recipes 

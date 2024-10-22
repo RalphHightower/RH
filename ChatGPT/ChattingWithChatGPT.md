@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ChatGPT/Chatting with ChatGPT
-permalink: /ChatGPT/
+#permalink: /ChatGPT/
 ---
 
 ## Cars/Trucks

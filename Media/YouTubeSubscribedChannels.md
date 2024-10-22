@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media/YouTube Subscribed Channels
-permalink: /Media/
+#permalink: /Media/
 ---
 
 [^11]: These are the [YouTube](https://youtube.com/) channels that I subscribe to. 

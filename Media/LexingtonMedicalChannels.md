@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media/Lexington Medical Center Channel Lineup/Schedule
-permalink: /Media/
+#permalink: /Media/
 ---
 
 [^11]: Since I have had more hospitalizations than I wanted, I created this channel guide for myself.

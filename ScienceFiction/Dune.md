@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Science Fiction/Dune
-permalink: /ScienceFiction/
+#permalink: /ScienceFiction/
 ---
 
 ## Dune — Part Two Premiere Date Set for March 15, 2024[^13]

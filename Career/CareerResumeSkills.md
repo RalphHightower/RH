@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Career/Resume Skills 
-permalink: /Career/
+#permalink: /Career/
 ---
 
 ## [Top 20 skills to put on your résumé](https://www.fastcompany.com/90887751/these-are-the-top-20-must-have-skills-to-put-on-your-resume )

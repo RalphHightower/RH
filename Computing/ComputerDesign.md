@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/Computer Design 
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 | Computer Design | Date |

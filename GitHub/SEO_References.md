@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub/SEO Resources 
-permalink: /GitHub/
+#permalink: /GitHub/
 ---
 
 ## SEO Resource Definitions

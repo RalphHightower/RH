@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Science Fiction/Star Trek Franchise  
-permalink: /ScienceFiction/
+#permalink: /ScienceFiction/
 ---
 
 ## [Star Trek Series](https://www.startrek.com/)

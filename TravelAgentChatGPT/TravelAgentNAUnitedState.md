@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ChatGPT Travel Agent/North America/United States of America 🇺🇸  
-permalink: /TravelAgentChatGPT/
+#permalink: /TravelAgentChatGPT/
 ---
 ## [ChatGPT Travel Agent](https://chat.openai.com/)/North America 🌎 / United States of America 🇺🇸 
 #### Alabama

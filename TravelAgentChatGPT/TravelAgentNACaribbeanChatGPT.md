@@ -1,8 +1,7 @@
-
 ---
 layout: page
 title: ChatGPT Travel Agent/North America/Caribbean 
-permalink: /TravelAgentChatGPT/
+#permalink: /TravelAgentChatGPT/
 ---
 ## [ChatGPT Travel Agent](https://chat.openai.com/)/North America / Caribbean 
 #### Anguilla (UK)

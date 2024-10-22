@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Government/Lexington County Online Resoures
-permalink: /Government/
+#permalink: /Government/
 ---
 
 ## Lexington County Online Resources 

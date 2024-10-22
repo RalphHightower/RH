@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Media/Rebooted Television Series [^11]
-permalink: /Media/
+title: Media/Rebooted Television Series
+#permalink: /Media/
 ---
 
 [^11]: Worth watching, i.e., shows with a plot; not something like Fresh Prince/Uncle of Bel Air.

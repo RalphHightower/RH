@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/Retro Computing 
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 ## CPU

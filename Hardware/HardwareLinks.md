@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hardware/Hardware Links
-permalink: /Hardware/
+#permalink: /Hardware/
 ---
 
 | Resource |

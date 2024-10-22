@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home/Home Lab
-permalink: /Home/
+#permalink: /Home/
 ---
 
 ## Hardware 

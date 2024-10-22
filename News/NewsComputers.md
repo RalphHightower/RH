@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News/Computer News
-permalink: /News/
+#permalink: /News/
 ---
 
 | Computer News | Date |

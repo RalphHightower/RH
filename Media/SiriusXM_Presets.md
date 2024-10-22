@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media/SiriusXM
-permalink: /Media/
+#permalink: /Media/
 ---
 
 ## SiriusXM Presets

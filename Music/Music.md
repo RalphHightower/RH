@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music/Music
-permalink: /Music/
+#permalink: /Music/
 ---
 
 ## Tenor Saxophone 

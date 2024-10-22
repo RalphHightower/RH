@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Movies/Mission Impossible
-permalink: /Movies/
+#permalink: /Movies/
 ---
 
 | Title	| Release date	| Plot |

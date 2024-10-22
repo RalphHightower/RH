@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/RISC-V
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
  ## Articles 

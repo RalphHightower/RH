@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comics/Far Side
-permalink: /Comics/
+#permalink: /Comics/
 ---
 
 ## Books

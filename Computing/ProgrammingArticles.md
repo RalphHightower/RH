@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/Programming / Security Articles 
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 ## Programing Articles 

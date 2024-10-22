@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub/Jekyll Notes
-permalink: /GitHub/
+#permalink: /GitHub/
 ---
 
 ## Build Problems

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Movies/Bond. James Bond (007)
-permalink: /Movies/
+#permalink: /Movies/
 ---
 
 | Title | Year | Actor |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FoodDrink/South Carolina Food 
-permalink: /FoodDrink/
+#permalink: /FoodDrink/
 ---
 
 ## Statewide 

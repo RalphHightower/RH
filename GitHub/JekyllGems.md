@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GitHub/JekyllGems
-permalink: /GitHub/
+#permalink: /GitHub/
 ---
 
 

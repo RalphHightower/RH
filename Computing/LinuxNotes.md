@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/Linux Notes
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 ## Directories

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home/Hardware Projects 
-permalink: /Home/
+#permalink: /Home/
 ---
 
 ## Preferred Vendors 
