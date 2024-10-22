@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computing/GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
+title: Computing/GitHub Company / Government [GitHub Repositories](https://github.com/) and [GitHub](https://github.com/ )
 permalink: /Computing/
 ---
 
