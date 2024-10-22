@@ -1,4 +1,8 @@
-# Astronomy/Auroras
+---
+layout: page
+title: Astronomy/Auroras
+permalink: /Astronomy/
+---
 
 <details markdown="1"><summary >Auroras / T Corona Borealis Hot Links</summary >
 

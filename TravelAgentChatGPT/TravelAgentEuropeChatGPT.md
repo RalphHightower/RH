@@ -1,4 +1,8 @@
-# ChatGPT Travel Agent/Europe 
+---
+layout: page
+title: ChatGPT Travel Agent/Europe 
+permalink: /TravelAgentChatGPT/
+---
 ## [ChatGPT Travel Agent](https://chat.openai.com/)/Europe 🇪🇺 
 ### Albania 🇦🇱 
 ### Andorra 🇦🇩 

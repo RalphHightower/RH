@@ -1,5 +1,9 @@
 
-# ChatGPT Travel Agent/North America/Caribbean 
+---
+layout: page
+title: ChatGPT Travel Agent/North America/Caribbean 
+permalink: /TravelAgentChatGPT/
+---
 ## [ChatGPT Travel Agent](https://chat.openai.com/)/North America / Caribbean 
 #### Anguilla (UK)
 #### Aruba 🇦🇼 (Netherlands)

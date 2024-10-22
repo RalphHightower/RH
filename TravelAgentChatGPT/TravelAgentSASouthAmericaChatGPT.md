@@ -1,4 +1,8 @@
-# ChatGPT Travel Agent/South America 
+---
+layout: page
+title: ChatGPT Travel Agent/South America 
+permalink: /TravelAgentChatGPT/
+---
 ## [ChatGPT Travel Agent](https://chat.openai.com/)/South America 
 ### Argentina 🇦🇷 
 ### Bolivia 🇧🇴 
