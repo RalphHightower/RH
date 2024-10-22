@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Science Fiction/Star Wars Movies
-permalink: /ScienceFiction/
+#permalink: /ScienceFiction/
 ---
 
 | Film | U.S. Release Date | Trilogy |
