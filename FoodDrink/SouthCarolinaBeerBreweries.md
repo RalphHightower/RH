@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FoodDrink/South Carolina Craft Beer Breweries
-permalink: /FoodDrink/
+#permalink: /FoodDrink/
 ---
 
 | Brewery | Location | Year | Date Added/Updated |
