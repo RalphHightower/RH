@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ChatGPT/ChatGPT Haikus — Lists of Bucket Lists  
-permalink: /ChatGPT/
+#permalink: /ChatGPT/
 ---
 
 I have multiple bucket lists of different categories.
