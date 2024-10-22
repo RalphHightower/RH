@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ChatGPT Travel Agent/Asia 🌏 
-permalink: /TravelAgentChatGPT/
+#permalink: /TravelAgentChatGPT/
 ---
 ## [ChatGPT Travel Agent](https://chat.openai.com/)/Asia 🌏 
 ### Afghanistan 🇦🇫 
