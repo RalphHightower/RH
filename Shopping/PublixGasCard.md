@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shopping/[Publix](https://www/publix.com/) Gas Card Coupon Sales Dates[^11]
+title: Shopping/Publix Gas Card Coupon Sales Dates[^11]
 permalink: /Shopping/
 ---
 
