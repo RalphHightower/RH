@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Science Fiction/[Star Trek Franchise](https://www.startrek.com/)  
+title: Science Fiction/Star Trek Franchise  
 permalink: /ScienceFiction/
 ---
 
