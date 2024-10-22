@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Electronics/Electronics / Radios 📻 / Television 📺 
-permalink: /Electronics/
+#permalink: /Electronics/
 ---
 
 ## Electronics 
