@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weather/Weather
-permalink: /Weather/
+#permalink: /Weather/
 ---
 
 ## Hurricanes[^11]
