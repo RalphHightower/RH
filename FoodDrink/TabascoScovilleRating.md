@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FoodDrink/Tabasco Sauce Scoville Rating [^1]
+title: FoodDrink/Tabasco Sauce Scoville Rating
 permalink: /FoodDrink/
 ---
 
