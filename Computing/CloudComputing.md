@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/Cloud Computing
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 ## [Cloud Computing Services / Microsoft Azure](https://azure.microsoft.com/en-us )[^11]
