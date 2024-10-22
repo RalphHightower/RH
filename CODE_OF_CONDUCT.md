@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributor Covenant Code of Conduct
-permalink: /
+#permalink: /
 ---
 
 ## Our Pledge
