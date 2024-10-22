@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Media/[YouTube](https://youtube.com/) Subscribed Channels[^11][^12]
+title: Media/[YouTube](https://youtube.com/) Subscribed Channels
 permalink: /Media/
 ---
 

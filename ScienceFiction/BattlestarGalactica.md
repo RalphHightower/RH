@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Science Fiction/Battlestar Galactica[^11]
+title: Science Fiction/Battlestar Galactica
 permalink: /ScienceFiction/
 ---
 

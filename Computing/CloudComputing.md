@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Computing/Cloud Computing[^11]
+title: Computing/Cloud Computing
 permalink: /Computing/
 ---
 
-## [Cloud Computing Services / Microsoft Azure](https://azure.microsoft.com/en-us )
+## [Cloud Computing Services / Microsoft Azure](https://azure.microsoft.com/en-us )[^11]
 
 ### Documentation 
 
