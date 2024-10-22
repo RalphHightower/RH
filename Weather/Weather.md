@@ -1,4 +1,8 @@
-# Weather/Weather
+---
+layout: page
+title: Weather/Weather
+permalink: /Weather/
+---
 
 ## Hurricanes[^11]
 

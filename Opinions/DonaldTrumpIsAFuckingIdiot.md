@@ -1,4 +1,8 @@
-# Opinions/Donald Trump Is a Fucking Idiot
+---
+layout: page
+title: Opinions/Donald Trump Is a Fucking Idiot
+permalink: /Opinions/
+---
 
 ## 1. My Personal Opinion
 

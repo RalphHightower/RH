@@ -1,4 +1,8 @@
-# Computing/References: Computing / Networking, Licensing
+---
+layout: page
+title: Computing/References: Computing / Networking, Licensing
+permalink: /Computing/
+---
 
 ## References 
 

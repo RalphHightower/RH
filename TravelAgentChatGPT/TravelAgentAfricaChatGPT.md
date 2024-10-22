@@ -1,4 +1,8 @@
-# ChatGPT Travel Agent/Africa 
+---
+layout: page
+title: ChatGPT Travel Agent/Africa 
+permalink: /TravelAgentChatGPT/
+---
 ## [ChatGPT Travel Agent](https://chat.openai.com/)/Africa 🌍  
 ### Algeria 🇩🇿 
 ### Angola 🇦🇴 

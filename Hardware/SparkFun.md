@@ -1,4 +1,8 @@
-# Hardware/[SparkFun](https://sparkfun.com/)
+---
+layout: page
+title: Hardware/[SparkFun](https://sparkfun.com/)
+permalink: /Hardware/
+---
 
 | SparkFun | Date |
 |---|---|

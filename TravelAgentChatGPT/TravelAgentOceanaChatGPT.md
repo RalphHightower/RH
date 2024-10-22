@@ -1,4 +1,8 @@
-# ChatGPT Travel Agent/Oceana 
+---
+layout: page
+title: ChatGPT Travel Agent/Oceana 
+permalink: /TravelAgentChatGPT/
+---
 ## [ChatGPT Travel Agent](https://chat.openai.com/)/Oceana 
 ### Australia 🇦🇺 
 ### Fiji 🇫🇯 
