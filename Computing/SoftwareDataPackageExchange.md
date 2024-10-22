@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/The Software Package Data Exchange® (SPDX®)
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 ## Software Data Package Exchange Specifications
