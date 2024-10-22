@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Ralph Hightower – Main Website
 permalink: /
 ---
 
