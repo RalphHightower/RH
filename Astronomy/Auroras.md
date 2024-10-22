@@ -59,13 +59,13 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 
 ## Auroras
 
-{% include SolarFlares/2024SolarFlares.md %}
+{% include_relative SolarFlares/2024SolarFlares.md %}
 
-{% include SolarFlares/2023SolarFlares.md %}
+{% include_relative SolarFlares/2023SolarFlares.md %}
 
-{% include SolarFlares/2022SolarFlares.md %}
+{% include_relative SolarFlares/2022SolarFlares.md %}
 
-{% include SolarFlares/2021SolarFlares.md %}
+{% include_relative SolarFlares/2021SolarFlares.md %}
 
 
 ### Aurora FAQ & Other Stuff
