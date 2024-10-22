@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FoodDrink/[Hooter Restaurants Visited](https://www.hooters.com)
+title: FoodDrink/Hooter Restaurants Visited
 permalink: /FoodDrink/
 ---
 

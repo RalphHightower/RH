@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ChatGPT/Chatting with [ChatGPT](https://chat.openai.com/)
+title: ChatGPT/Chatting with ChatGPT
 permalink: /ChatGPT/
 ---
 

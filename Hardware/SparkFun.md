@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hardware/[SparkFun](https://sparkfun.com/)
+title: Hardware/SparkFun
 permalink: /Hardware/
 ---
 
