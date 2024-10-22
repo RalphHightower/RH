@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media/NCIS Franchise 
-permalink: /Media/
+#permalink: /Media/
 ---
 
 ## NCIS Franchise 
