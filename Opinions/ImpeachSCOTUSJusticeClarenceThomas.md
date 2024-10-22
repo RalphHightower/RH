@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Opinions/Impeach Supreme Court Justice Clarence Thomas
-permalink: /Opinions/
+#permalink: /Opinions/
 ---
 
 For justice to be equitable, justices must be neutral to personal or politics. However, Justice Thomas has been compromised.
