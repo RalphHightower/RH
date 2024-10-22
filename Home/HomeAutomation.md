@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home/Home Automation 
-permalink: /Home/
+#permalink: /Home/
 ---
 
 I have not decided on which home automation system that I want to deploy, but my decision will be based on versatility. 
