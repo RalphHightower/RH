@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photography/Rocket Launches
-permalink: /Photography/
+#permalink: /Photography/
 ---
 
 ## Rocket Launch Schedules
