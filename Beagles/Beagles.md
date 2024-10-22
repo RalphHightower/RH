@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beagles/Beagles 
-permalink: /Beagles/
+#permalink: /Beagles/
 ---
 
 | Registered Name | Call Name | Birth | Death |
