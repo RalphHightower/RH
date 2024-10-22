@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photography/Canon Manuals, Firmware, Software[^31] 
-permalink: /Photography/
+#permalink: /Photography/
 ---
 
 [^31]: Yes, this page is for Canon related stuff, but this includes my bucket list cameras  
