@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News/Space News
-permalink: /News/
+#permalink: /News/
 ---
 
 ## [NASA](https://www.nasa.gov) [Space Shuttle Endeavour]()
