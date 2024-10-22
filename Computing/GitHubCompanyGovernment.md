@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/GitHub — Company / Government GitHub Repositories and GitHub References 
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 ## Company / Government [GitHubs](https://github.com/ )
