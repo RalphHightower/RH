@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/Software Developer Events 
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 | Software Developers Events | Date | Time Zone |
