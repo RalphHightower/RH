@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/Software / Utilities 
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 | Software / Utilities | Purpose |
