@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Media/[Lexington Medical Center Channel Lineup/Schedule](https://www.lexmed.com/)[^11][^12][^13]
+title: Media/Lexington Medical Center Channel Lineup/Schedule
 permalink: /Media/
 ---
 
