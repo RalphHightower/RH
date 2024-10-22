@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ChatGPT/[ChatGPT](https://chat.openai.com/) Haikus — Lists of Bucket Lists  
+title: ChatGPT/ChatGPT Haikus — Lists of Bucket Lists  
 permalink: /ChatGPT/
 ---
 
