@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ChatGPT Travel Agent/Europe 
-permalink: /TravelAgentChatGPT/
+#permalink: /TravelAgentChatGPT/
 ---
 ## [ChatGPT Travel Agent](https://chat.openai.com/)/Europe 🇪🇺 
 ### Albania 🇦🇱 
