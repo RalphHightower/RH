@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comics/Calvin And Hobbes
-permalink: /Comics/
+#permalink: /Comics/
 ---
 
 ## Books
