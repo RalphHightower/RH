@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computing/References: Computing / Networking, Licensing
+title: Computing/References — Computing / Networking, Licensing
 permalink: /Computing/
 ---
 
