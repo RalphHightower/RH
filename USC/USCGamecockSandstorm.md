@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [USC/University of South Carolina](https://www.sc.edu)
+title: USC/University of South Carolina
 permalink: /USC/
 ---
 
