@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing/Open Source Projects
-permalink: /Computing/
+#permalink: /Computing/
 ---
 
 | Software | Description | Purpose |
