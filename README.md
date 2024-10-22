@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Ralph Hightower – Main Website
-permalink: /
+#permalink: /
 ---
 
 Hi, I’m @RalphHightower.
