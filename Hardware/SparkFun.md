@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hardware/SparkFun
-permalink: /Hardware/
+#permalink: /Hardware/
 ---
 
 | SparkFun | Date |
