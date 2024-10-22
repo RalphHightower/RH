@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FoodDrink/Tabasco Sauce Scoville Rating
-permalink: /FoodDrink/
+#permalink: /FoodDrink/
 ---
 
 [^1]: [McIlhenny Company](https://www.tabasco.com/hot-sauces/)
