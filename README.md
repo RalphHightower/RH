@@ -1,8 +1,10 @@
 ---
-layout: home
-title: Ralph Hightower – Main Website
+layout: base
+#title: Ralph Hightower – Main Website
 #permalink: /
 ---
+
+# Ralph Hightower's Website
 
 Hi, I’m @RalphHightower.
 
